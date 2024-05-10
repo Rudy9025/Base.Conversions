@@ -1,0 +1,17 @@
+{
+  "name": "base-conversions",
+  "version": "1.0.2",
+  "description": "Reshaping number's attire - Focuses on the transformation of a number's representation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base converter",
+    "base conversions",
+    "number system conversion",
+    "decimal binary"
+  ],
+  "author": "Rudy",
+  "license": "MIT"
+}
